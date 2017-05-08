@@ -46,6 +46,8 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
-	<false/>
+    <false/>
+    <key>NSCameraUsageDescription</key>
+    <string>App需要您的同意,才能访问相机</string>
 </dict>
 </plist>
